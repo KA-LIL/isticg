@@ -1,0 +1,21 @@
+body{background: #c1c1c1; color:black}
+
+nav, nav div{background:#789cb6}
+
+i{color:black}
+
+.nav-link{color:black;border:transparent;border-radius:10px}
+
+nav .nav-link:hover, .active{color:#789cb6;background:#A5BDCE}
+
+footer a{color:black}
+
+#footerf{border-color:black}
+
+footer a:hover{color:black}
+
+.btn-outline{background:none;border:3px solid #789cb6;color:#789cb6; border-radius: 5px}
+
+.btn-outline:hover{color:white;background:#789cb6}
+
+#footer{font-weight:500}

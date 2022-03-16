@@ -1,0 +1,19 @@
+body{background: #212121;color:white}
+
+nav, nav div{background:#0e47d2}
+
+i{color:white}
+
+.nav-link{color:white;border:transparent;border-radius:10px}
+
+nav .nav-link:hover, .active{color:#0e47d2;background:white}
+
+footer a{color:white}
+
+#footerf{border-color: white}
+
+footer a:hover{color:white}
+
+.btn-outline{background:none; color:#0e47d2; border:3px solid #0e47d2; border-radius: 5px}
+
+.btn-outline:hover{color:#212121; background:#0e47d2}
